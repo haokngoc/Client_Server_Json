@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "json.h": "c",
+        "SERVER.C": "cpp"
+    }
+}
